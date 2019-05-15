@@ -4,7 +4,7 @@ This repository contains ready-to-use pets code reverse-engineered from libtoont
 
 Used to control the movement and various other behaviors of pets (Doodles) in Disney's Toontown Online.
 
-### Contributing ###
+### Dependencies ###
 [libotp-movement](https://github.com/jwcotejr/libotp-movement) is required to use `libtoontown-pets`.
 
 ### Usage ###
